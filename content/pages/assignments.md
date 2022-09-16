@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information and supporting files for the assignments
+  and final project of the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
